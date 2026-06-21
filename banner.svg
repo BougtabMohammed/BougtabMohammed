@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" fill="none" role="img" aria-label="Mohammed Bougtab - Data and AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="240" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#fade)"/>
+
+  <!-- decorative circles -->
+  <circle cx="1080" cy="40" r="120" fill="#ffffff" opacity="0.06"/>
+  <circle cx="120" cy="220" r="90" fill="#ffffff" opacity="0.06"/>
+
+  <!-- name -->
+  <text x="600" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#ffffff" letter-spacing="1">
+    Mohammed Bougtab
+  </text>
+
+  <!-- divider -->
+  <rect x="500" y="128" width="200" height="3" rx="1.5" fill="#ffffff" opacity="0.6"/>
+
+  <!-- title -->
+  <text x="600" y="168" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="600" fill="#F4F4F5" letter-spacing="1">
+    Data &amp; AI Engineer  •  Agentic AI / LLM Systems
+  </text>
+
+  <!-- tagline -->
+  <text x="600" y="202" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#E5E7EB" opacity="0.9">
+    From raw data to autonomous decisions
+  </text>
+</svg>
