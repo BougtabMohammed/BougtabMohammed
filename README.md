@@ -1,6 +1,7 @@
 <!-- ====================== HERO BANNER ====================== -->
+<!-- banner.svg must be uploaded to the root of your BougtabMohammed/BougtabMohammed repo -->
 <a href="https://github.com/BougtabMohammed">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:22D3EE&height=220&section=header&text=Mohammed+Bougtab&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data+%26+AI+Engineer+-+Agentic+AI+/+LLM+Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="./banner.svg" alt="Mohammed Bougtab - Data & AI Engineer" width="100%" />
 </a>
 
 <!-- ====================== TYPING SUBTITLE ====================== -->
